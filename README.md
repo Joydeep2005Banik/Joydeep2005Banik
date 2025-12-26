@@ -1,90 +1,82 @@
-# Hi there! 👋 I'm Joydeep Banik
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/d48893bd-0757-481c-8d7e-ba3e163feae7" width="100%" />
 
-## 🚀 About Me
+# <img src="https://user-images.githubusercontent.com/74038190/240906093-9be4d344-6782-461a-b5a6-32a07bf7b34e.gif" width="50"> I'm Joydeep Banik
 
-Electronics and Communication Engineering student at **RCC Institute of Information Technology**, specializing in the integrated development of hardware systems and robust, data-intensive applications.
+### Intern @ Haldia Petrochemical Ltd. | Student @ RCC Institute of Information Technology
 
-I master the **full-stack system life cycle**: from designing and executing reliable PCBs to developing production-ready software. I apply deep knowledge of Operating Systems, Networking, and Cryptography to ensure system security and performance.
+<img
+  align="right"
+  src="https://user-images.githubusercontent.com/74038190/212284145-bf2c01a8-c448-4f1a-b911-996024c84606.gif"
+  width="200"
+  alt="Coding"
+/>
 
----
+<h3>About Me</h3> 
 
-## 🔧 Technical Expertise
+- Pre-final year @ **RCC Institute of Information Technology**.
+- Pursuing B. Tech in **Electronics and Communication Engineering**.
+- IT Intern at **Haldia Petrochemicals**.
+- Building **full-stack systems** from PCB design to production-ready software
 
-### 🔌 Hardware Design & Development
-- **PCB Design**: KiCad, EasyEDA
-- **Electronics**: Circuit design, component selection, prototyping
-- **Systems Integration**: Hardware-software interfacing
 
-### 💻 Software Development
-- **Languages**: C/C++, Python
-- **System Programming**: Operating Systems, Networking protocols
-- **Security**: Cryptography implementation and analysis
-
-### 🛰️ Data Processing & Analysis
-- **Remote Sensing**: Multispectral and hyperspectral image processing
-- **Geospatial Analysis**: MATLAB, QGIS
-- **Data Intelligence**: Complex geospatial data transformation
-
-### ⚙️ DevOps & Infrastructure
-- **Containerization**: Docker
-- **Version Control**: Git
-- **Deployment**: Scalable, production-ready infrastructure
-- **System Reliability**: Modern DevOps practices
+<br clear="right" />
 
 ---
 
-## 🛠️ Tech Stack
+## Programming Languages
 
-### Programming Languages
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)
-
-### Tools & Technologies
-![KiCad](https://img.shields.io/badge/KiCad-314CB0?style=for-the-badge&logo=kicad&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![QGIS](https://img.shields.io/badge/QGIS-589632?style=for-the-badge&logo=qgis&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+<p>
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,matlab,bash" />
+</p>
 
 ---
 
-## 🎯 Current Focus
+## Tech Stack
 
-- 🔬 **Advanced Data Processing**: Pushing the boundaries of remote sensing analysis
-- 🔐 **System Security**: Implementing robust cryptographic solutions
-- 🐳 **DevOps Excellence**: Building scalable, containerized applications
-- 🌐 **IoT Integration**: Bridging hardware and cloud infrastructure
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,git,linux,github,vscode,postgres,django,gcp,bootstrap,opencv,mysql,arduino,raspberrypi" />
+</p>
 
----
-
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=dark&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=dark&hide_border=true)
 
 ---
 
-## 🌟 What I Bring to Projects
+## GitHub Streak
 
-✅ **Full-Stack System Development** - From PCB to Production  
-✅ **Data-Driven Solutions** - Complex geospatial analysis expertise  
-✅ **Security-First Approach** - Cryptography and system hardening  
-✅ **Production-Ready Code** - Scalable, maintainable applications  
-✅ **DevOps Mindset** - Automated deployment and infrastructure  
-
----
-
-## 📫 Let's Connect!
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://your-portfolio-url.com)
+<p>
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com/?user=Joydeep2005Banik&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"
+    height="170"
+    alt="GitHub Streak"
+  />
+</p>
 
 ---
 
-*Ready to contribute to projects demanding a blend of specialized hardware, systems engineering, and data analysis.*
+## GitHub Stats
 
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=blue&style=flat-square)
+<p>
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=Joydeep2005Banik&show_icons=true&theme=tokyonight&hide_border=true"
+    height="170"
+    alt="GitHub Stats"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joydeep2005Banik&layout=compact&theme=tokyonight&hide_border=true"
+    height="170"
+    alt="Top Languages"
+  />
+</p>
+
+---
+
+## Connect With Me
+
+<p>
+  <a href="https://linkedin.com/in/joydeep-banik"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:joydeepbanik41@gmail.com"><img src="https://img.shields.io/badge/-Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.instagram.com/joy.deep_banik/"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+</p>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="100%">
+
+
