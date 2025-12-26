@@ -56,7 +56,7 @@
 
 <p>
   <img
-    src="https://github-readme-stats.vercel.app/api?username=Joydeep2005Banik&show_icons=true&theme=tokyonight&hide_border=true"
+    src="https://streak-stats.demolab.com?user=Joydeep2005Banik&theme=tokyonight"
     height="170"
     alt="GitHub Stats"
   />
