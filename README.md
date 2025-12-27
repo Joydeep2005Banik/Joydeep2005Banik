@@ -40,35 +40,6 @@
 
 ---
 
-## GitHub Streak
-
-<p>
-  <img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=Joydeep2005Banik&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"
-    height="170"
-    alt="GitHub Streak"
-  />
-</p>
-
----
-
-## GitHub Stats
-
-<p>
-  <img
-    src="[![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1)](https://git.io/streak-stats)"
-    height="170"
-    alt="GitHub Stats"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joydeep2005Banik&layout=compact&theme=tokyonight&hide_border=true"
-    height="170"
-    alt="Top Languages"
-  />
-</p>
-
----
-
 ## Connect With Me
 
 <p>
