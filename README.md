@@ -2,6 +2,10 @@
 
 # <img src="https://user-images.githubusercontent.com/74038190/240906093-9be4d344-6782-461a-b5a6-32a07bf7b34e.gif" width="50"> I'm Joydeep Banik
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Joydeep2005Banik&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
+</p>
+
 ### Intern @ Haldia Petrochemical Ltd. | Student @ RCC Institute of Information Technology
 
 <img
@@ -37,6 +41,15 @@
   <img src="https://skillicons.dev/icons?i=docker,git,linux,github,vscode,postgres,django,gcp,bootstrap,opencv,mysql,arduino,raspberrypi" />
 </p>
 
+
+---
+
+## GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats-one-bice.vercel.app/api?username=Joydeep2005Banik&count_private=true&theme=calm&show_icons=true&include_all_commits=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR" alt="GitHub Stats" style="height: 180px;" />
+  <img src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=Joydeep2005Banik&layout=compact&langs_count=8&theme=calm&role=OWNER,ORGANIZATION_MEMBER" alt="Top Languages" style="height: 180px;" />
+</div>
 
 ---
 
