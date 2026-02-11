@@ -19,7 +19,7 @@
 
 - Pre-final year @ **RCC Institute of Information Technology**.
 - Pursuing B. Tech in **Electronics and Communication Engineering**.
-- IT Intern at **Haldia Petrochemicals**.
+- Ex-Intern at **Haldia Petrochemicals**.
 - Building **full-stack systems** from PCB design to production-ready software
 
 
