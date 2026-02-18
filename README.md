@@ -6,7 +6,7 @@
   <img src="https://komarev.com/ghpvc/?username=Joydeep2005Banik&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
 </p>
 
-### Intern @ Haldia Petrochemical Ltd. | Student @ RCC Institute of Information Technology
+### Ex-Intern @ Haldia Petrochemical Ltd. | Student @ RCC Institute of Information Technology
 
 <img
   align="right"
