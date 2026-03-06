@@ -42,12 +42,12 @@ I am an undergraduate student pursuing Electronics & Communication Engineering a
 
 ## 🧰 Technical Skills
 
-**Programming Languages:** Python, C++, C, JavaScript, MySQL, MATLAB, Bash 
-**Frameworks & Libraries:** Django, Node.js, SCP
-**Tools & Platforms:** Git, Docker, VS Code, Jupyter, MATLAB  
-**Embedded Systems:** Arduino, ESP32, Arduino IDE, Raspberry Pi
-**Technologies:** REST APIs, TCP/IP 
-**Core Subjects:** DSA, DBMS, OS, OOP, CN, Microprocessors, Analog/Digital Electronics, Control Systems, Digital Signal Processing
+- **Programming Languages:** Python, C++, C, JavaScript, MySQL, MATLAB, Bash 
+- **Frameworks & Libraries:** Django, Node.js, SCP
+- **Tools & Platforms:** Git, Docker, VS Code, Jupyter, MATLAB  
+- **Embedded Systems:** Arduino, ESP32, Arduino IDE, Raspberry Pi  
+- **Technologies:** REST APIs, TCP/IP  
+- **Core Subjects:** DSA, DBMS, OS, OOP, CN, Microprocessors, Analog/Digital Electronics, Control Systems, Digital Signal Processing
 
 ---
 
