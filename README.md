@@ -1,66 +1,59 @@
-<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/d48893bd-0757-481c-8d7e-ba3e163feae7" width="100%" />
-
-# <img src="https://user-images.githubusercontent.com/74038190/240906093-9be4d344-6782-461a-b5a6-32a07bf7b34e.gif" width="50"> I'm Joydeep Banik
+<img src="https://raw.githubusercontent.com/Joydeep2005Banik/Joydeep2005Banik/main/img.jpg" width="100%" />
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Joydeep2005Banik&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
 </p>
 
-### Ex-Intern @ Haldia Petrochemical Ltd. | Student @ RCC Institute of Information Technology
+# 👋 Hi, I'm Joydeep Banik
 
-<img
-  align="right"
-  src="https://user-images.githubusercontent.com/74038190/212284145-bf2c01a8-c448-4f1a-b911-996024c84606.gif"
-  width="200"
-  alt="Coding"
-/>
-
-<h3>About Me</h3> 
-
-- Pre-final year @ **RCC Institute of Information Technology**.
-- Pursuing B. Tech in **Electronics and Communication Engineering**.
-- Ex-Intern at **Haldia Petrochemicals**.
-- Building **full-stack systems** from PCB design to production-ready software
-
-
-<br clear="right" />
+I am an undergraduate student pursuing Electronics & Communication Engineering at RCC Institute of Information Technology. I aim to bring forth my strong hands-on experience across embedded systems, networking, and software-defined solutions across real-world problems using scalable, well-architected designs. 
 
 ---
 
-## Programming Languages
+## 🏫 Education
 
-<p>
-  <img src="https://skillicons.dev/icons?i=c,cpp,python,matlab,bash" />
-</p>
+- **RCC Institute of Information Technology**, Kolkata  
+  *B.Tech in Electronics and Communication Engineering*  
+  *2023 – 2027* |
 
----
+- **Kalyani Public School**, Kolkata  
+  *2021 – 2023* |
 
-## Tech Stack
-
-<p>
-  <img src="https://skillicons.dev/icons?i=docker,git,linux,github,vscode,postgres,django,gcp,bootstrap,opencv,mysql,arduino,raspberrypi" />
-</p>
-
+- **St. Claret School**, Kolkata  
+  *2011 – 2021* |
 
 ---
 
-## GitHub Stats
+## 💼 Work Experience
 
-<div align="center">
-  <img src="https://github-readme-stats-one-bice.vercel.app/api?username=Joydeep2005Banik&count_private=true&theme=calm&show_icons=true&include_all_commits=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR" alt="GitHub Stats" style="height: 180px;" />
-  <img src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=Joydeep2005Banik&layout=compact&langs_count=8&theme=calm&role=OWNER,ORGANIZATION_MEMBER" alt="Top Languages" style="height: 180px;" />
-</div>
+### Haldia Petrochemicals Limited  
+**Winter Intern, Information Systems**  
+📅 December 2025 – January 2026  
+- Led the development of backend system of a Engineering Store MAnagement System with role-based authentication, APIs, and database integration for on-site use.
+- Gained hands-on exposure to enterprise IT infrastructure, including 3-layer network architecture, routing, firewalls, DMZ, ILL connectivity, and monitoring using PRTG.
 
 ---
 
-## Connect With Me
+## 🏆 Achievements
 
-<p>
-  <a href="https://linkedin.com/in/joydeep-banik"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:joydeepbanik41@gmail.com"><img src="https://img.shields.io/badge/-Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.instagram.com/joy.deep_banik/"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-</p>
+- 🥇 Shortlisted, Smart India Hackathon 2025 (AI-powered monitoring of crop health, soil condition, and pest risks using multispectral/hyperspectral imaging and sensor data.)
 
-<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="100%">
+---
 
+## 🧰 Technical Skills
 
+**Programming Languages:** Python, C++, C, JavaScript, MySQL, MATLAB, Bash 
+**Frameworks & Libraries:** Django, Node.js, SCP
+**Tools & Platforms:** Git, Docker, VS Code, Jupyter, MATLAB  
+**Embedded Systems:** Arduino, ESP32, Arduino IDE, Raspberry Pi
+**Technologies:** REST APIs, TCP/IP 
+**Core Subjects:** DSA, DBMS, OS, OOP, CN, Microprocessors, Analog/Digital Electronics, Control Systems, Digital Signal Processing
+
+---
+
+## 📫 Contact Me
+
+- 📍 75, Purbachal Kanjilal Bagan, Rahara, Khardaha, Kolkata – 700118, West Bengal, India  
+- 📧 joydeepbanik41@gmail.com
+- 🔗 [LinkedIn](https://www.linkedin.com/in/joydeep-banik/)
+- 🔗 [Instagram](https://www.instagram.com/joy.deep_banik?igsh=N2dyY3NvamJ3NWg0)
