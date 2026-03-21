@@ -37,6 +37,7 @@ I am an undergraduate student pursuing Electronics & Communication Engineering a
 ## 🏆 Achievements
 
 - 🥇 Shortlisted, Smart India Hackathon 2025 (AI-powered monitoring of crop health, soil condition, and pest risks using multispectral/hyperspectral imaging and sensor data.)
+- 🥇 Finalist, India Innovates 2026, Bharat Mandapam, New Delhi, India (Ongoing)
 
 ---
 
