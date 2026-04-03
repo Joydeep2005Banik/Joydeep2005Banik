@@ -29,7 +29,7 @@ I am an undergraduate student pursuing Electronics & Communication Engineering a
 ### Haldia Petrochemicals Limited  
 **Winter Intern, Information Systems**  
 📅 December 2025 – January 2026  
-- Led the development of backend system of a Engineering Store MAnagement System with role-based authentication, APIs, and database integration for on-site use.
+- Led the development of backend system of a Management System with role-based authentication, APIs, and database integration for on-site use.
 - Gained hands-on exposure to enterprise IT infrastructure, including 3-layer network architecture, routing, firewalls, DMZ, ILL connectivity, and monitoring using PRTG.
 
 ---
