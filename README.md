@@ -54,7 +54,7 @@ I am an undergraduate student pursuing Electronics & Communication Engineering a
 
 ## 📫 Contact Me
 
-- 📍 75, Purbachal Kanjilal Bagan, Rahara, Khardaha, Kolkata – 700118, West Bengal, India  
+- 📍 Kolkata, West Bengal, India  
 - 📧 joydeepbanik41@gmail.com
 - 🔗 [LinkedIn](https://www.linkedin.com/in/joydeep-banik/)
 - 🔗 [Instagram](https://www.instagram.com/joy.deep_banik?igsh=N2dyY3NvamJ3NWg0)
