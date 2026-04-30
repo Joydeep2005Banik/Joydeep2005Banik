@@ -58,6 +58,8 @@ I am an undergraduate student pursuing Electronics & Communication Engineering a
 **Languages**
 <p align="left">
   <img src="https://skillicons.dev/icons?i=python,cpp,c,js,bash,matlab&perline=6"/>
+  <br/>
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
 </p>
 
 **Frameworks & Libraries**
@@ -88,6 +90,13 @@ I am an undergraduate student pursuing Electronics & Communication Engineering a
 <p align="left">
   <img src="https://skillicons.dev/icons?i=arduino,raspberrypi&perline=6"/>
 </p>
+
+- **Programming Languages:** Python, C++, C, JavaScript, MySQL, MATLAB, Bash 
+- **Frameworks & Libraries:** Django, Node.js, SCP
+- **Tools & Platforms:** Git, Docker, VS Code, Jupyter, MATLAB  
+- **Embedded Systems:** Arduino, ESP32, Arduino IDE, Raspberry Pi  
+- **Technologies:** REST APIs, TCP/IP  
+- **Core Subjects:** DSA, DBMS, OS, OOP, CN, Microprocessors, Analog/Digital Electronics, Control Systems, Digital Signal Processing
 
 ---
 
