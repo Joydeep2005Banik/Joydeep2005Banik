@@ -58,6 +58,10 @@ I am an undergraduate student pursuing Electronics & Communication Engineering a
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,cpp,c,js,mysql,bash,django,nodejs,git,docker,arduino,raspberrypi,vscode,matlab&perline=7"/>
 </p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Apache%20Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white"/>
+</p>
 
 - **Programming Languages:** Python, C++, C, JavaScript, MySQL, MATLAB, Bash 
 - **Frameworks & Libraries:** Django, Node.js, SCP
