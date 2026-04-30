@@ -55,12 +55,38 @@ I am an undergraduate student pursuing Electronics & Communication Engineering a
 
 ## 🧰 Technical Skills
 
+**Languages**
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,c,js,mysql,bash,django,nodejs,git,docker,arduino,raspberrypi,vscode,matlab&perline=7"/>
+  <img src="https://skillicons.dev/icons?i=python,cpp,c,js,bash,matlab&perline=6"/>
 </p>
+
+**Frameworks & Libraries**
 <p align="center">
+  <img src="https://skillicons.dev/icons?i=django,nodejs&perline=6"/>
+</p>
+
+**Databases & Messaging**
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mysql&perline=6"/>
+  <br/>
   <img src="https://img.shields.io/badge/Apache%20Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white"/>
+</p>
+
+**DevOps & Tools**
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,docker&perline=6"/>
+</p>
+
+**IDEs & Editors**
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=vscode&perline=6"/>
+  <br/>
   <img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white"/>
+</p>
+
+**Embedded Systems**
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=arduino,raspberrypi&perline=6"/>
 </p>
 
 - **Programming Languages:** Python, C++, C, JavaScript, MySQL, MATLAB, Bash 
