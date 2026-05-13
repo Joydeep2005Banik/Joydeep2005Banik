@@ -2,8 +2,8 @@ name: Update README cards
 
 on:
   schedule:
-    - cron: "0 3 * * *"   # runs daily at 3 AM UTC
-  workflow_dispatch:       # allows manual trigger
+    - cron: "0 3 * * *"
+  workflow_dispatch:
 
 permissions:
   contents: write
@@ -16,8 +16,6 @@ jobs:
 
       - uses: Joydeep2005Banik/readme-stats-cards@v1
         with:
-          username: Joydeep2005Banik
+          username: your-github-username
           token: ${{ secrets.GITHUB_TOKEN }}
-          theme: dracula
-          cards: "stats"
-          commit_message: "chore: refresh stats card"
+          theme: blue-green
