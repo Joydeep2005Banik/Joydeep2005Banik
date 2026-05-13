@@ -30,6 +30,6 @@
 
 ![Top Languages](./profile/top-langs.svg)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Joydeep2005Banik&show_icons=true&locale=en" alt="Joydeep2005Banik" /></p>
+![GitHub Stats](./profile/stats.svg)
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Joydeep2005Banik&" alt="Joydeep2005Banik" /></p>
