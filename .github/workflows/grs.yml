@@ -16,6 +16,6 @@ jobs:
 
       - uses: Joydeep2005Banik/readme-stats-cards@v1
         with:
-          username: your-github-username
+          username: Joydeep2005Banik
           token: ${{ secrets.GITHUB_TOKEN }}
           theme: blue-green
